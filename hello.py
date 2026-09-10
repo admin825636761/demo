@@ -1,2 +1,2 @@
-student_name = "guoruibiao"
+student_name = "guorwadwduibiao"
 print(student_name)
